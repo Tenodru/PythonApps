@@ -4,18 +4,6 @@
 #  Description: Solves the Eight Queen puzzle and returns the total number
 #               of solutions for given board sizes.
 
-#  Student Name: Alex Kong
-
-#  Student UT EID: ak39768
-
-#  Partner Name: Victor Do
-
-#  Partner UT EID: vd4877
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
 #  Date Created: 10/23/2020
 
 #  Date Last Modified: 10/23/2020
